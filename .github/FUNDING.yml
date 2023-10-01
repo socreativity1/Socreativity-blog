@@ -1,0 +1,19 @@
+# FUNDING.yml
+
+github:
+  sponsors:
+    - username: SocreativityBlog
+      tiers:
+        - name: Gold Sponsor
+          description: A big thank you for supporting this project!
+          monthly_amount: 1000 # Amount in cents (e.g., $10.00)
+        - name: Silver Sponsor
+          description: Thank you for supporting this project!
+          monthly_amount: 500 # Amount in cents (e.g., $5.00)
+        - name: Bronze Sponsor
+          description: Thank you for supporting this project!
+          monthly_amount: 100 # Amount in cents (e.g., $1.00)
+
+  # Add additional sponsorship platforms if needed, like Open Collective, Patreon, etc.
+  open_collective: Blogging
+  patreon: Socreativityblog
